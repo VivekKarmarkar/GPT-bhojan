@@ -16,6 +16,10 @@ create table if not exists public.food_logs (
   eat_frequency text,
   ideal_comparison text,
   mood_impact text,
+  satiety_score text,
+  bloat_score text,
+  tasty_score text,
+  addiction_score text,
   summary text,
   image_url text
 );
