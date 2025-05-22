@@ -2,7 +2,7 @@ streamlit
 openai
 supabase
 Pillow
-opencv-python
+opencv-python-headless
 numpy
 matplotlib
 ultralytics
